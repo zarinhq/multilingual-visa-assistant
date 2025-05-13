@@ -1,0 +1,13 @@
+langchain==0.1.14
+langchain-community==0.0.33
+faiss-cpu
+openai==0.28
+requests
+gradio==3.50.2
+pydantic==1.10.13
+beautifulsoup4
+python-dotenv
+sentence-transformers
+huggingface-hub
+deep-translator 
+langdetect
